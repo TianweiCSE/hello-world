@@ -1,3 +1,1 @@
-# hello-world hahaha
-
-# i love study
+Github NB
